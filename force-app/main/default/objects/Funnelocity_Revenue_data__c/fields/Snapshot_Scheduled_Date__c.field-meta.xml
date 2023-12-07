@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Snapshot_Scheduled_Date__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is created to use in the historical batch calculation</description>
+    <externalId>false</externalId>
+    <formula>IF( Month__c  = 12, 
+DATE( Year__c , 12, 31 ), 
+DATE( Year__c , Month__c   + 1, 1) - 1)</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <label>Snapshot Scheduled Date</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Date</type>
+</CustomField>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Update and Copy Reports and Dashboards</label>
+    <protected>false</protected>
+    <values>
+        <field>Completed__c</field>
+        <value xsi:type="xsd:boolean">true</value>
+    </values>
+    <values>
+        <field>Description__c</field>
+        <value xsi:type="xsd:string">Repeat above activities for Production plus app data loading not permitted for FM in Production.</value>
+    </values>
+    <values>
+        <field>Details__c</field>
+        <value xsi:type="xsd:string">Update and Copy Reports and Dashboards</value>
+    </values>
+    <values>
+        <field>Order__c</field>
+        <value xsi:type="xsd:double">11.0</value>
+    </values>
+    <values>
+        <field>Updated_by__c</field>
+        <value xsi:type="xsd:string">Seth Kirby</value>
+    </values>
+    <values>
+        <field>Updated_date_time__c</field>
+        <value xsi:type="xsd:dateTime">2023-10-09T10:35:39.000Z</value>
+    </values>
+</CustomMetadata>

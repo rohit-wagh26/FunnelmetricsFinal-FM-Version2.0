@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customMetadataTypeAccesses>
+        <enabled>true</enabled>
+        <name>Client_custom_field_mapping__mdt</name>
+    </customMetadataTypeAccesses>
+    <customSettingAccesses>
+        <enabled>true</enabled>
+        <name>Fiscal_Year_Setting__c</name>
+    </customSettingAccesses>
+    <description>Permission set that enables access to FM custom setting and custom metadata type</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>FM Custom setting/Custom metadata access</label>
+</PermissionSet>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Stores the status of installation and the steps that have been completed in the installation checklist</description>
+    <label>Installation status</label>
+    <pluralLabel>Installation statuses</pluralLabel>
+    <visibility>Public</visibility>
+</CustomObject>

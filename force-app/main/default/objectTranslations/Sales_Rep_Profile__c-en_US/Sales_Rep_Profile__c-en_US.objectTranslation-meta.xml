@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Sales Rep Profile</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Sales Rep Profiles</value>
+    </caseValues>
+    <layouts>
+        <layout>Sales Rep Profile Layout</layout>
+        <sections>
+            <label></label>
+            <section>12 Month Rolling</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Close Rate</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Company Levels</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Custom Metric Goals</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Goals</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Leads</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Meetings</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Metrics Calculator Items</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Opportunities</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Profile Details</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Quota</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Revenue</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>UPDATING Sales Rep Profile Layout</layout>
+        <sections>
+            <label></label>
+            <section>Company Levels</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Key Metrics</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Leads</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Meetings</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Opportunities</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Profile Details</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Quota</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label></label>
+        <name>Company_Levels</name>
+    </quickActions>
+    <quickActions>
+        <label></label>
+        <name>Custom_Metrics</name>
+    </quickActions>
+    <quickActions>
+        <label></label>
+        <name>Key_Metrics</name>
+    </quickActions>
+    <quickActions>
+        <label></label>
+        <name>Leads_12_Month_Rolling</name>
+    </quickActions>
+    <quickActions>
+        <label></label>
+        <name>Leads_Monthly</name>
+    </quickActions>
+    <quickActions>
+        <label></label>
+        <name>Leads_Quarterly</name>
+    </quickActions>
+    <quickActions>
+        <label></label>
+        <name>Leads_YTD</name>
+    </quickActions>
+    <quickActions>
+        <label></label>
+        <name>Meetings</name>
+    </quickActions>
+    <quickActions>
+        <label></label>
+        <name>Opportunity_12_Month_Rolling</name>
+    </quickActions>
+    <quickActions>
+        <label></label>
+        <name>Opportunity_Monthly</name>
+    </quickActions>
+    <quickActions>
+        <label></label>
+        <name>Opportunity_Quarterly</name>
+    </quickActions>
+    <quickActions>
+        <label></label>
+        <name>Opportunity_YTD</name>
+    </quickActions>
+    <quickActions>
+        <label></label>
+        <name>Profile_Details</name>
+    </quickActions>
+    <quickActions>
+        <label></label>
+        <name>Quota</name>
+    </quickActions>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage></errorMessage>
+        <name>User_Record_Name_Validation</name>
+    </validationRules>
+</CustomObjectTranslation>

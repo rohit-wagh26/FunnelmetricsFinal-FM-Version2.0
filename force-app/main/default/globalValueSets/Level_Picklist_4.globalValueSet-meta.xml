@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>US East</fullName>
+        <default>false</default>
+        <label>US East</label>
+    </customValue>
+    <customValue>
+        <fullName>Canada East</fullName>
+        <default>false</default>
+        <label>Canada East</label>
+    </customValue>
+    <customValue>
+        <fullName>Canada West</fullName>
+        <default>false</default>
+        <label>Canada West</label>
+    </customValue>
+    <customValue>
+        <fullName>US West</fullName>
+        <default>false</default>
+        <label>US West</label>
+    </customValue>
+    <customValue>
+        <fullName>Funnel Metrics</fullName>
+        <default>false</default>
+        <label>Funnel Metrics</label>
+    </customValue>
+    <masterLabel>Level Picklist 4</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

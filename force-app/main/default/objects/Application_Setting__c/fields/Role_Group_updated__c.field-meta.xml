@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Role_Group_updated__c</fullName>
+    <defaultValue>true</defaultValue>
+    <deprecated>false</deprecated>
+    <description>This field is used to check if the Role grouping is updated if yes important ratings are fetched from the Model</description>
+    <externalId>false</externalId>
+    <label>Role Group updated</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SE</fullName>
+    <booleanFilter>1 OR 2</booleanFilter>
+    <columns>NAME</columns>
+    <columns>Profile_Type__c</columns>
+    <columns>Monthly_Quota_Revenue__c</columns>
+    <columns>Monthly_lost_QO_Amt__c</columns>
+    <columns>Monthly_Close_Rate__c</columns>
+    <columns>Monthly_lost_QO__c</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>NAME</field>
+        <operation>contains</operation>
+        <value>Jayme Persons</value>
+    </filters>
+    <filters>
+        <field>NAME</field>
+        <operation>contains</operation>
+        <value>Irfan</value>
+    </filters>
+    <label>SE</label>
+    <language>en_US</language>
+</ListView>

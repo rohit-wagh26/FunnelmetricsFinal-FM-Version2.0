@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>North America</fullName>
+        <default>false</default>
+        <label>North America</label>
+    </customValue>
+    <customValue>
+        <fullName>Funnel Metrics</fullName>
+        <default>false</default>
+        <label>Funnel Metrics</label>
+    </customValue>
+    <masterLabel>Level Picklist 2</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

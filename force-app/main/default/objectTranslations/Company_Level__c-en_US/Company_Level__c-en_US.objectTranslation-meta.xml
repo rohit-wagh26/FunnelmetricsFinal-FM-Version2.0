@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Company Level</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Company Levels</value>
+    </caseValues>
+    <layouts>
+        <layout>Company Level Layout</layout>
+        <sections>
+            <label></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage></errorMessage>
+        <name>Restrict_values_in_level_name_and_value</name>
+    </validationRules>
+</CustomObjectTranslation>

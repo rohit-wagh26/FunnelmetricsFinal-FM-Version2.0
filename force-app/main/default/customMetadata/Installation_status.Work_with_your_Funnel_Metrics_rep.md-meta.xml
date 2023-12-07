@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Input Custom Metadata</label>
+    <protected>false</protected>
+    <values>
+        <field>Completed__c</field>
+        <value xsi:type="xsd:boolean">true</value>
+    </values>
+    <values>
+        <field>Description__c</field>
+        <value xsi:type="xsd:string">Pull AI Data from model for initial load of Funneocity Scores and Important Quant ratings.</value>
+    </values>
+    <values>
+        <field>Details__c</field>
+        <value xsi:type="xsd:string">Input Custom Metadata Type Records for the above (if required)</value>
+    </values>
+    <values>
+        <field>Order__c</field>
+        <value xsi:type="xsd:double">5.0</value>
+    </values>
+    <values>
+        <field>Updated_by__c</field>
+        <value xsi:type="xsd:string">Abhay S</value>
+    </values>
+    <values>
+        <field>Updated_date_time__c</field>
+        <value xsi:type="xsd:dateTime">2023-10-09T08:23:48.000Z</value>
+    </values>
+</CustomMetadata>

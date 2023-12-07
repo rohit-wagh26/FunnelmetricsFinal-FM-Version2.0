@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>All</fullName>
+    <columns>NAME</columns>
+    <columns>Sales_Manager__c</columns>
+    <columns>User_Record_Name__c</columns>
+    <columns>Role__c</columns>
+    <columns>FMCustom_Metric_1Goal__c</columns>
+    <columns>FMCustom_Metric_2Goal__c</columns>
+    <columns>FMCustom_Metric_3Goal__c</columns>
+    <columns>Level_picklist_3__c</columns>
+    <filterScope>Everything</filterScope>
+    <label>All</label>
+    <language>en_US</language>
+</ListView>
